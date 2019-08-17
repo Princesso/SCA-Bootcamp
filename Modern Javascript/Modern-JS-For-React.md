@@ -253,4 +253,8 @@ function restFunction(a, b, ...c) {
 restFunction(10, 20, "Oluebube", "Princess", false, 50)
 ```
 
-
+### Promises
+A Promise object is simply a wrapper around a value that may or may not be
+known when the object is instantiated and provides a method for handling
+the value after it is known ʈalso known as resolved ʉ or is unavailable for a
+failure reason ʈwe'll refer to this as rejected ʉ.
